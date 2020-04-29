@@ -1,5 +1,7 @@
 # Data Structures and Algorithms
 
+![Run Python tests](https://github.com/JB-Tellez/dsa_test/workflows/Run%20Python%20tests/badge.svg)
+
 ## Create a copy of this repository
 
 1. Create a new repository in your GitHub account called `data-structures-and-algorithms`
